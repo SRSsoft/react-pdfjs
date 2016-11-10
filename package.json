@@ -1,12 +1,12 @@
 {
-  "name": "react-pdfjs",
-  "version": "1.0.7",
+  "name": "@srssoft/react-pdfjs",
+  "version": "1.0.8",
   "description": "A React component to wrap PDF.js",
   "main": "./lib/index.js",
   "jsnext:main": "./src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/erikras/react-pdfjs"
+    "url": "https://github.com/srssoft/react-pdfjs"
   },
   "scripts": {
     "build": "npm run build:lib && npm run build:umd && npm run build:umd:min",
@@ -26,9 +26,9 @@
   "author": "Erik Rasmussen <rasmussenerik@gmail.com> (http://github.com/erikras)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/erikras/react-pdfjs/issues"
+    "url": "https://github.com/srssoft/react-pdfjs/issues"
   },
-  "homepage": "https://github.com/erikras/react-pdfjs",
+  "homepage": "https://github.com/srssoft/react-pdfjs",
   "dependencies": {
     "pdfjs-dist": "^1.5.296"
   },
@@ -48,7 +48,7 @@
     "rimraf": "^2.4.3",
     "webpack": "^1.12.3"
   },
-  "npmName": "react-pdfjs",
+  "npmName": "@srssoft/react-pdfjs",
   "npmFileMap": [
     {
       "files": [
