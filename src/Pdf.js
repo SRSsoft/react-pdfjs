@@ -83,7 +83,7 @@ class Pdf extends Component {
   renderPdf() {
     const { page } = this.state;
     if (page) {
-      let canvas = this.canvas;
+      let { canvas } = this;
       if (canvas.getDOMNode) { // compatible with react 0.13
         canvas = canvas.getDOMNode();
       }
