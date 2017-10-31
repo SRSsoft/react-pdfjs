@@ -1,8 +1,9 @@
 {
-  "stage": 0,
-  "optional": "runtime",
-  "loose": "all",
+  "presets": [
+    "env",
+    "react"
+  ],
   "plugins": [
-    "typecheck"
+    "transform-runtime"
   ]
 }
