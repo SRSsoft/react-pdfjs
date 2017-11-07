@@ -1,6 +1,6 @@
 {
   "name": "@srssoft/react-pdfjs",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "A React component to wrap PDF.js",
   "main": "./lib/index.js",
   "jsnext:main": "./src/index.js",
