@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/srssoft/react-pdfjs",
   "dependencies": {
-    "pdfjs-dist": "^1.10.95",
+    "pdfjs-dist": "^2.0.213",
     "react": "^15.4.1",
     "prop-types": "^15.6.0"
   },
