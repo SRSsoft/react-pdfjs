@@ -1,4 +1,4 @@
-#react-pdfjs
+# react-pdfjs
 ---
 [![NPM Version](https://img.shields.io/npm/v/@srssoft/react-pdfjs.svg?style=flat-square)](https://www.npmjs.com/package/@srssoft/react-pdfjs) 
 [![NPM Downloads](https://img.shields.io/npm/dm/@srssoft/react-pdfjs.svg?style=flat-square)](https://www.npmjs.com/package/@srssoft/react-pdfjs)
